@@ -16,7 +16,7 @@ Web crawling, also known as web scraping, is the process of automatically extrac
 
 ## Features
 
-- **Current Feature**:
+- **Current Feature**: Extract Images from html
 
 ## Installation
 
