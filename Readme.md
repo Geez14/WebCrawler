@@ -25,7 +25,7 @@ To get started with the Web Crawling Project, follow these steps:
 1. Clone the repository:
 
   ```sh
-  git clone https://github.com/yourusername/webcrawling.git
+  git clone https://github.com/Geez14/WebCrawler.git
   ```
 
 2. Navigate to the project directory:
